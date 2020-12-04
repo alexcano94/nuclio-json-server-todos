@@ -1,0 +1,35 @@
+.form-container {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgba(0,0,0, 0.35);
+    background-color: #ffffff;
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+
+.form-container .form-row {
+    display: flex;
+}
+
+.form-container input {
+    margin: 1rem;
+    border: none;
+    height: 1rem;
+    background-color: #eae8e8;
+}
+
+.form-container textarea {
+    margin: 1rem;
+    border: none;
+    background-color: #eae8e8;
+}
+
+.form-container button {
+    margin: 1rem;
+    height: 2rem;
+    width: 5rem;
+    border: none;
+    text-decoration: none;
+}

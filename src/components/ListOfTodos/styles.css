@@ -1,0 +1,9 @@
+.todo-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    margin: 1em;
+    height: auto;
+    width: auto;
+}

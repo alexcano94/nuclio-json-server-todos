@@ -1,0 +1,31 @@
+{
+  "todos": [
+    {
+      "name": "TODO 1",
+      "description": "1200 revoluciones. 2 capsulas de detergente si son mas de 8kg. Sin suavizante que me irrita la piel.",
+      "completed": true,
+      "completion_date": 1607112832946,
+      "status": "finished",
+      "owner": "Alejandro",
+      "id": 1
+    },
+    {
+      "name": "TODO 2",
+      "description": "1200 revoluciones. 2 capsulas de detergente si son mas de 8kg. Sin suavizante que me irrita la piel.",
+      "completed": true,
+      "completion_date": 1607112834146,
+      "status": "finished",
+      "owner": "Alejandro",
+      "id": 2
+    },
+    {
+      "name": "TODO 3",
+      "description": "1200 revoluciones. 2 capsulas de detergente si son mas de 8kg. Sin suavizante que me irrita la piel.",
+      "completed": false,
+      "completion_date": "",
+      "status": "to_do",
+      "owner": "Alejandro",
+      "id": 3
+    }
+  ]
+}
